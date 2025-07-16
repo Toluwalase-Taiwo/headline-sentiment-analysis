@@ -101,7 +101,7 @@ which-headline-works-better/
 
 ## 🔗 Notebook & Dataset
 
-- 📓 [View the full Jupyter Notebook here](#)  
+- 📓 [View the full Jupyter Notebook here](notebook/headline_ab_test.ipynb)  
 - 📂 [Download cleaned dataset](#)
   
 ---
