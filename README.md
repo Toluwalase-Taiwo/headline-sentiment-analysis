@@ -56,33 +56,41 @@ Data was saved as a `.csv` file for easy analysis.
 6. Ran a **T-test** to compare average engagement across sentiment groups.
 
 ---
-
-
 ## 📸 Visuals & Exploratory Insights
 
-### 🎯 Sentiment Distribution
+### 🎯 Sentiment Distribution  
 This barplot shows the number of articles classified as positive vs. negative after filtering out neutral ones. It sets the stage for the A/B test.
 
-![Sentiment Distribution](visuals/sentiment_distribution.png)
+<p align="center">
+  <img src="visuals/sentiment_distribution.png" alt="Sentiment Distribution" width="600"/>
+</p>
 
+---
 
-### 📊 Engagement Boxplot by Sentiment
+### 📊 Engagement Boxplot by Sentiment  
 This boxplot compares simulated clicks and shares across sentiment groups. It highlights how negative headlines tend to get more consistent and higher engagement.
 
-![Boxplot Engagement](visuals/boxplot_engagement.png)
+<p align="center">
+  <img src="visuals/boxplot_engagement.png" alt="Boxplot Engagement" width="600"/>
+</p>
 
+---
 
-### 📈 Barplot – Engagement Metrics
+### 📈 Barplot – Engagement Metrics  
 A simple barplot showing average clicks and shares for each sentiment group. It gives a quick view of performance based on emotional tone.
 
-![Barplot Engagement](visuals/barplot_engagement.png)
+<p align="center">
+  <img src="visuals/barplot_engagement.png" alt="Barplot Engagement" width="600"/>
+</p>
 
+---
 
-### ☁️ WordCloud – Combined
+### ☁️ WordCloud – Combined  
 A word cloud that visually represents the most common words across all headlines and summaries. Words appearing more frequently are displayed larger.
 
-![WordCloud](visuals/wordcloud.png)
-
+<p align="center">
+  <img src="visuals/wordcloud.png" alt="WordCloud" width="600"/>
+</p>
 
 ---
 
