@@ -57,11 +57,32 @@ Data was saved as a `.csv` file for easy analysis.
 
 ---
 
-## 📊 Key Visuals
 
-- **Boxplots**: Showed that negative headlines had higher and more consistent engagement.  
-- **Word Clouds**: Gave a quick look into the tone of each sentiment group.  
-- **Text Length Analysis**: Positive headlines tended to have longer summaries — likely to build more context.
+## 📸 Visuals & Exploratory Insights
+
+### 🎯 Sentiment Distribution
+This barplot shows the number of articles classified as positive vs. negative after filtering out neutral ones. It sets the stage for the A/B test.
+
+![Sentiment Distribution](visuals/sentiment_distribution.png)
+
+
+### 📊 Engagement Boxplot by Sentiment
+This boxplot compares simulated clicks and shares across sentiment groups. It highlights how negative headlines tend to get more consistent and higher engagement.
+
+![Boxplot Engagement](visuals/boxplot_engagement.png)
+
+
+### 📈 Barplot – Engagement Metrics
+A simple barplot showing average clicks and shares for each sentiment group. It gives a quick view of performance based on emotional tone.
+
+![Barplot Engagement](visuals/barplot_engagement.png)
+
+
+### ☁️ WordCloud – Combined
+A word cloud that visually represents the most common words across all headlines and summaries. Words appearing more frequently are displayed larger.
+
+![WordCloud](visuals/wordcloud.png)
+
 
 ---
 
