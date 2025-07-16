@@ -119,12 +119,6 @@ It contains:
 
 ---
 
-## 🪞 Personal Reflection
-
-This was more than a technical exercise — it was a lesson in **how data reflects human behavior**. It helped me connect Python, NLP, and stats to real-world questions in media and communication.
-
----
-
 ## 🚀 How to Reproduce
 
 1. Clone the repo  
@@ -137,5 +131,10 @@ This was more than a technical exercise — it was a lesson in **how data reflec
    
 ---
 
+## 🪞 Personal Reflection
+
+This was more than a technical exercise — it was a lesson in **how data reflects human behavior**. It helped me connect Python, NLP, and stats to real-world questions in media and communication.
+
+---
 
 
