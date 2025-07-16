@@ -97,6 +97,25 @@ which-headline-works-better/
 ├── requirements.txt
 └── .gitignore
 ```
+---
+
+## 🔗 Notebook & Dataset
+
+- 📓 [View the full Jupyter Notebook here](#)  
+- 📂 [Download cleaned dataset](#)
+  
+---
+
+## 📄 Full Project Walkthrough
+
+For the full walkthrough of this project, please check this document:  
+👉 [Google Docs – Project Breakdown](https://docs.google.com/document/d/1O2-k9V-x3NsBSVQObb5yCaSarpv-GFOIim_MpM6Ahk4/edit?usp=sharing)
+
+It contains:
+
+- ✅ Step-by-step breakdown of the analysis  
+- 📊 Visualizations and interpretations  
+- 💡 Key insights and recommendations
 
 ---
 
@@ -118,9 +137,5 @@ This was more than a technical exercise — it was a lesson in **how data reflec
    
 ---
 
-## 🔗 Notebook & Dataset
-
-- 📓 [View the full Jupyter Notebook here](#)  
-- 📂 [Download cleaned dataset](#)
 
 
